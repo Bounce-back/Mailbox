@@ -1,0 +1,9 @@
+name: Mailbox
+main: io.github.bounceback.mailbox.Mailbox
+version: 0.1
+author: me
+Description: stop throwing an error
+commands:
+  mail:
+    description: Do mail related things
+    usage: /mail send [playername], or /mail [inbox/sent] {pagenumber/playername}
